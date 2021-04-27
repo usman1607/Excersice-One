@@ -1,0 +1,16 @@
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\bin\Debug\net5.0\FirstQuiz-7.exe
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\bin\Debug\net5.0\FirstQuiz-7.deps.json
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\bin\Debug\net5.0\FirstQuiz-7.runtimeconfig.json
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\bin\Debug\net5.0\FirstQuiz-7.runtimeconfig.dev.json
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\bin\Debug\net5.0\FirstQuiz-7.dll
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\bin\Debug\net5.0\ref\FirstQuiz-7.dll
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\bin\Debug\net5.0\FirstQuiz-7.pdb
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\obj\Debug\net5.0\FirstQuiz-7.csprojAssemblyReference.cache
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\obj\Debug\net5.0\FirstQuiz-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\obj\Debug\net5.0\FirstQuiz-7.AssemblyInfoInputs.cache
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\obj\Debug\net5.0\FirstQuiz-7.AssemblyInfo.cs
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\obj\Debug\net5.0\FirstQuiz-7.csproj.CoreCompileInputs.cache
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\obj\Debug\net5.0\FirstQuiz-7.dll
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\obj\Debug\net5.0\ref\FirstQuiz-7.dll
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\obj\Debug\net5.0\FirstQuiz-7.pdb
+C:\Users\Utman\source\repos\Exercise-One\FirstQuiz-7\FirstQuiz-7\obj\Debug\net5.0\FirstQuiz-7.genruntimeconfig.cache
